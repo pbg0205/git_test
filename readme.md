@@ -7,3 +7,6 @@
 
 ### local에서의 작업 내용 ###
 ### 원격에서 작업한 내용(for fetch)###
+
+
+###conflict fetch in remote repo ###
